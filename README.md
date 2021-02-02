@@ -14,3 +14,9 @@ After these, there will be scripts focusing on the time-domain analysis (ERPs) a
 ***(The content will be updated with the progression through the course)***
 ---
 
+## Dipole Simulation
+![dipolesvid.gif](https://github.com/d-scanzi/EEG-TimeFrequency/blob/main/Images/dipolesvid.gif)
+The yellow-bands in the gif are an artifact created during rendering. 
+
+## ERP example
+![erps.jpg](https://github.com/d-scanzi/EEG-TimeFrequency/blob/main/Images/erps.jpg)

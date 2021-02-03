@@ -20,3 +20,9 @@ The yellow-bands in the gif are an artifact created during rendering.
 
 ## ERP example
 ![erps.jpg](https://github.com/d-scanzi/EEG-TimeFrequency/blob/main/Images/erps.jpg)
+
+
+## Fourier Transformation Simulation
+![fourier_sim.jpg](https://github.com/d-scanzi/EEG-TimeFrequency/blob/main/Images/fourier_sim.jpg)
+
+Simulation of signal with and without noise and extraction of composing frequencies with dot-product in for-loop and with built-in function fft()
